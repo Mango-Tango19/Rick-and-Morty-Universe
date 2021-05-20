@@ -1,25 +1,28 @@
 .random-character {
-    display: flex;
-    padding: 1rem;
-    background-color: #282828;
-    margin-bottom: 1rem;
+  display: flex;
+  padding: 1rem;
+  background-color: #282828;
+  margin-bottom: 1rem;
 }
 
 .random-character .character-image {
-    width: 150px;
-    height: 150px;
-    border-radius: 10px;
-    margin-right: 1rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin-right: 1rem;
 }
 
 .random-character .list-group {
-    margin: 1rem 0 0 1rem;
+  margin: 1rem 0 0 1rem;
 }
 
 .random-character .list-group-item {
-    padding: .25rem;
+  padding: 0.25rem;
 }
 
 .random-character .list-group-item .term {
-    margin-right: .5rem;
+  margin-right: 0.5rem;
+}
+
+@media (max-width: 768px) {
 }

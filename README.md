@@ -1,12 +1,13 @@
 # Rick and Morty Universe
 
-Rick and Morty Universe - приложение с использованием открытого api известного сериала
+Rick and Morty Universe - приложение с использованием открытого api известного сериала.
+Демоверсию можно посмотреть по ссылке https://rick-morty-universe.herokuapp.com
 
 ## Installation
 
 Команда запустит приложение в режиме разработки
 
-```bash
+```
 npm start
 ```
 
@@ -14,7 +15,7 @@ npm start
 
 ## Stack
 
-```bash
+```
 ReactJS(Hooks)
 React Router
 ```
